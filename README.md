@@ -1,3 +1,5 @@
 # CURSOR.js
 A small JS open source library for cursor animtion
-Coming Soon
+# Create a span element and add the words you want as a data-word attribute under the parent element you want to set this effect as.
+# add the script to exisitng javascript file
+# Call the handler function getEffect() as you need. 
